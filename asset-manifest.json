@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personalCard/static/css/main.08f111d7.css",
+    "main.js": "/personalCard/static/js/main.e15e51f4.js",
+    "static/js/787.a19fb0a5.chunk.js": "/personalCard/static/js/787.a19fb0a5.chunk.js",
+    "static/media/Whap.jpeg": "/personalCard/static/media/Whap.8514f1269cb9f352caa2.jpeg",
+    "index.html": "/personalCard/index.html",
+    "main.08f111d7.css.map": "/personalCard/static/css/main.08f111d7.css.map",
+    "main.e15e51f4.js.map": "/personalCard/static/js/main.e15e51f4.js.map",
+    "787.a19fb0a5.chunk.js.map": "/personalCard/static/js/787.a19fb0a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f111d7.css",
+    "static/js/main.e15e51f4.js"
+  ]
+}
